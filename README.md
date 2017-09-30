@@ -3,6 +3,9 @@ Eye tracking SW for RPI
 
 # Useful SWs
 
+## PsycoPy
+http://www.psychopy.org
+
 ## PyGaze
 
 ### Install
