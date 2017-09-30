@@ -32,9 +32,14 @@ http://www.pygaze.org/documentation/
 ## Tobii Pro SDK
 
 ### Install
+```
 pip install tobii_research
+```
 
 ### Links
+
+Download from https://www.tobiipro.com/product-listing/tobii-pro-sdk/
+
 Tobii pro SDK for Python
 http://developer.tobiipro.com/python.html
 
