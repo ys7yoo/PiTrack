@@ -30,3 +30,16 @@ pip install python-pygaze
 http://www.pygaze.org/documentation/
 
 ## Tobii Pro SDK
+
+### Install
+pip install tobii_research
+
+### Links
+Tobii pro SDK for Python
+http://developer.tobiipro.com/python.html
+
+Getting started: 
+http://developer.tobiipro.com/python/python-getting-started.html
+
+SDK reference guide
+http://developer.tobiipro.com/python/python-sdk-reference-guide.html
