@@ -47,6 +47,12 @@ Dalmaijer, E.S., Mathôt, S., & Van der Stigchel, S. (2014). PyGaze: an open-sou
 [manuscript (free)](http://www.pygaze.org/resources/downloads/Dalmaijer_Mathot_Stigchel_2013_PyGaze_manuscript.pdf)
 
 
+## GazeParse
+Another open-source SW.
+But, mainly for MS Windows. 
+
+http://gazeparser.sourceforge.net
+
 
 ## Tobii Pro SDK
 
