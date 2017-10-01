@@ -34,6 +34,15 @@ pip install python-pygaze
 ### documentation
 http://www.pygaze.org/documentation/
 
+
+### Paper
+
+Dalmaijer, E.S., Mathôt, S., & Van der Stigchel, S. (2014). PyGaze: an open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments. Behavior Research Methods, 46, 913-921. doi:10.3758/s13428-013-0422-2
+
+[manuscript (free)](http://www.pygaze.org/resources/downloads/Dalmaijer_Mathot_Stigchel_2013_PyGaze_manuscript.pdf)
+
+
+
 ## Tobii Pro SDK
 
 ### Install
