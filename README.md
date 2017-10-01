@@ -31,6 +31,11 @@ pip install python-pygaze
 
 ### examples
 
+http://www.pygaze.org/documentation/examples/
+
+code: https://github.com/esdalmaijer/PyGaze/tree/master/examples
+
+
 ### documentation
 http://www.pygaze.org/documentation/
 
